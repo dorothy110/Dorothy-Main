@@ -49,21 +49,6 @@ Feel free to reach out if you have any questions :
 <!-- Social icons section -->
 
 <p align="center">
-    <h1>
-    <!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-JS7M5J2524"></script>
-		<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());  
-
-    gtag('config', 'G-JS7M5J2524');
-    </script>
-    </h1>
-
-
-
-
 
   <a href="https://www.linkedin.com/in/baoluyu"><img width="32px" alt="linkedin" title="linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -83,4 +68,3 @@ Feel free to reach out if you have any questions :
    <i>青衿之志，履践致远</i>
    <br>
 <br>
-
