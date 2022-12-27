@@ -27,15 +27,15 @@ I have previously worked in the investment banking and sales industries for two 
 
 - **Mobile app:** IOS (XCode)
 - **Website Framework:** Django, Flask
-- **Language：**Python, Swift, C#
+- **Language:** Python, Swift, C#
 
  ## ⚙️ &nbsp;Project list
 
 <p align="center ">
 
-<a href="https://github.com/dorothy110">
+<a>
 [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany/),
-[IOS - Instagram](https://github.com/dorothy110/instagram),
+[IOS - Instagram](https://github.com/dorothy110/instagram)
 </a> 
 	
 </p>
