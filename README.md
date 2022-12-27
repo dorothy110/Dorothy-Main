@@ -15,7 +15,7 @@ I always feel a great sense of accomplishment when I am able to integrate resour
 I believe that the pursuit of knowledge and self-improvement is a lifelong journey that brings joy and enrichment to my life. Whether it's learning a new tech skill, exploring a new project, or finding ways to grow and develop as a person, I am constantly seeking out opportunities to learn and grow. I believe that this mindset has helped me to become a more well-rounded and fulfilled individual, and I hope to continue this journey of self-discovery and improvement for many years to come.
 
 ## Experience:
-I have previously worked in the investment banking and sales industries for two years, and later worked as a data analyst for an e-commerce company for one year. Currently, I am a TA for a database course at UW-Madison and have also interned for DOIT.
+I have previously worked in the investment banking and manufactory industry as a sales for two years, and later worked as a data analyst for an E-commerce company for one year. Currently, I am a TA for a database course at UW-Madison and have also interned for DOIT.
 
 **Data Analysis:**
 
