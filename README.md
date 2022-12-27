@@ -34,14 +34,11 @@ I have previously worked in the investment banking and sales industries for two 
 <p align="center ">
 
 <a href="https://github.com/dorothy110">
-
-[Baolu Yu](https://dorothy110.github.io//),
-
-
+[IOS - Carpany](https://github.com/codepath-ios-group23/Carpany/),
+[IOS - Instagram](https://github.com/dorothy110/instagram),
 </a> 
 	
 </p>
-  <br> 
 
 
 ## Where to find me:
@@ -49,18 +46,10 @@ Feel free to reach out if you have any questions :
 <!-- Social icons section -->
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/baoluyu"><img width="32px" alt="linkedin" title="linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dorothy110.github.io/"><img width="32px" alt="Web" title="Web" src="https://w7.pngwing.com/pngs/929/206/png-transparent-computer-icons-hyperlink-symbol-link-miscellaneous-text-logo.png"/></a>
 </p>
-
-
-
-
-
-
-
 
 
 <hr>
@@ -68,3 +57,4 @@ Feel free to reach out if you have any questions :
    <i>青衿之志，履践致远</i>
    <br>
 <br>
+
