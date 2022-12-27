@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="Center" id="macropower-title">:wave: Hey there! I'm Baolu Yu </h1>
-<h3 align="Center">  Data Analysis | software development </h3>
+<h3 align="Center">  Data Analysis | Software development </h3>
 <h3 align="Center"> ❤️ who loves continually learning and improving myself.❤️  </h3>
 
 <hr>
@@ -30,15 +30,9 @@ I have previously worked in the investment banking and sales industries for two 
 - **Language:** Python, Swift, C#
 
  ## ⚙️ &nbsp;Project list
+- [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
+- [IOS - Instagram](https://github.com/dorothy110/instagram//)
 
-<p align="center ">
-
-<a>
-[IOS - Carpany](https://github.com/codepath-ios-group23/Carpany/),
-[IOS - Instagram](https://github.com/dorothy110/instagram)
-</a> 
-	
-</p>
 
 
 ## Where to find me:
