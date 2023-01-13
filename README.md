@@ -31,7 +31,7 @@ I have previously worked in the investment banking and manufactory industry as a
 
 ## Projects List:
 **Data Analysis:**
-- [Data Science Projects - Carpany](https://github.com/dorothy110/DataScience//)
+- [Data Science Projects - Loan Analysis,BFS,DFS,AB testing,Geo Analysis,Linear Regression,Logistic Regression](https://github.com/dorothy110/DataScience//)
 - [Data Visualization - Location Analysis](https://github.com/dorothy110/DataVisualization-PolicyBrief//)
 - [Research - Academic mobility at HBCUs](https://hbcumobility.cci.drexel.edu//)
 - [Scrape - Web Scrapping Indeed](https://github.com/dorothy110/Web-Scrapping-Indeed//)
