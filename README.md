@@ -29,11 +29,18 @@ I have previously worked in the investment banking and manufactory industry as a
 - **Website Framework:** Django, Flask
 - **Language:** Python, Swift, C#
 
- ## ⚙️ &nbsp;Project list
+## Projects List:
+**Data Analysis:**
+- [Data Science Projects - Carpany](https://github.com/dorothy110/DataScience//)
+- [Data Visualization - Location Analysis](https://github.com/dorothy110/DataVisualization-PolicyBrief//)
+- [Research - Academic mobility at HBCUs](https://hbcumobility.cci.drexel.edu//)
+- [Scrape - Web Scrapping Indeed](https://github.com/dorothy110/Web-Scrapping-Indeed//)
+
+
+**Software Development:**
 - [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
 - [IOS - Instagram](https://github.com/dorothy110/instagram//)
-
-- [DataVisualization - PolicyBrief](https://github.com/dorothy110/DataVisualization-PolicyBrief//)
+- [Website - Malaxy](https://github.com/dorothy110/Malaxy//)
 
 ## Where to find me:
 Feel free to reach out if you have any questions :
