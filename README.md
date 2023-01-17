@@ -35,12 +35,14 @@ I have previously worked in the investment banking and manufactory industry as a
 - [Data Visualization - Location Analysis](https://github.com/dorothy110/DataVisualization-PolicyBrief//)
 - [Research - Academic mobility at HBCUs](https://hbcumobility.cci.drexel.edu//)
 - [Scrape - Web Scrapping Indeed](https://github.com/dorothy110/Web-Scrapping-Indeed//)
+- [Options Price Prediction](https://github.com/dorothy110/OptionsPricingPredict//)
 
 
 **Software Development:**
 - [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
 - [IOS - Instagram](https://github.com/dorothy110/instagram//)
 - [Website - Malaxy](https://github.com/dorothy110/Malaxy//)
+- [Website - Ecommerce]()
 
 ## Where to find me:
 Feel free to reach out if you have any questions :
